@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 📫 How to reach me: renatojmsantos@gmail.com
 -->
 - 🔭 I’m currently working @ University of Coimbra as Research Assistent
-- 📫 How to reach me: www.linkedin.com/in/renatojmsantos/ 
+- 📫 How to reach me: www.linkedin.com/in/renatojmsantos
 
  <div>
   <a href="https://github.com/renatojmsantos">
