@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me: renatojmsantos@gmail.com
 -->
-- 🔭 I’m currently working @ University of Coimbra as Research Assistent
+- 🔭 I’m currently working at Amgen as Data Engineer
 - 📫 How to reach me: www.linkedin.com/in/renatojmsantos
 
  <div>
