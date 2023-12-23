@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me: renatojmsantos@gmail.com
 -->
-- 🔭 I’m currently working at <a href="https://www.amgen.com">Amgen</a> as <b>Data Engineer</b>
+- 🔭 I’m currently working at <a href="https://www.amgen.com">Amgen</a> as <b>Software Engineer</b>
 - 📫 How to reach me: www.linkedin.com/in/renatojmsantos
 
  <div>
